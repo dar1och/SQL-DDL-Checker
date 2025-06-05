@@ -6,6 +6,7 @@ SQL DDL Checker — это приложение с графическим инт
 1. Клонируйте репозиторий:
 
 git clone https://github.com/ваш-пользователь/sql-ddl-checker.git
+
 cd sql-ddl-checker
 
 2. Установите зависимости:
