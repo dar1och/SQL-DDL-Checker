@@ -1,0 +1,15 @@
+
+¢python:S1192"XDefine a constant instead of duplicating this literal r"CREATE\s+TABLE\s+(\w+)" 9 times.(£Ğ‡ıÿÿÿÿ8ÎƒÜ•í2J$e4077907-db6b-43f0-9976-c02a62f14a45
+ªpython:S1192N"`Define a constant instead of duplicating this literal r"^\s*(\w+)\s+\w+.*PRIMARY\s+KEY" 3 times.(½šºÒıÿÿÿÿ8‹äŞ¤í2J$465fc3be-9592-4436-9387-fbbb45f967b6
+zpython:S1481"5Remove the unused local variable "inline_pk_pattern".(Â³“Ó8ØƒÜ•í2J$0c1d3100-7d72-4424-8fce-f544bc11c87b
+™python:S3776"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(êÊÇ›8ØƒÜ•í2J$736bf0d2-c4cc-4544-ae1d-782cc0e3db33
+python:S3776>"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(îû©™øÿÿÿÿ8ØƒÜ•í2J$0f3d5a62-0301-4a0c-984b-ba4d7812a0d3
+špython:S3776"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(«á¨Ğ8‹äŞ¤í2J$cbbd59fb-d2ed-4d4f-99de-fc04d62c1a86
+spython:S1481ô"-Remove the unused local variable "re_column".(¥ÈäÂ8ØƒÜ•í2J$3e664c31-d266-4372-90d3-3c7850294f71
+špython:S3776Ş"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(êûÌ8ØƒÜ•í2J$31edd8ea-75d1-4125-bf5f-bdeb4e5fc074
+Ÿpython:S3776Ÿ"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(¶ğÊîûÿÿÿÿ8ØƒÜ•í2J$af9dfde5-d0bd-46d2-af9f-9b70002f15a6
+špython:S3776Ø"TRefactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.(´¸ËÕ8ØƒÜ•í2J$7ae163ab-e644-476c-82a7-4c77540892d3
+python:S3457¶"EAdd replacement fields or use a normal string instead of an f-string.(ŸÑæ ÿÿÿÿÿ8ØƒÜ•í2J$06634a24-e086-4cb2-a54e-a3a72c825478
+Ÿpython:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(Ş½ìÃÿÿÿÿÿ8ØƒÜ•í2J$634fb3ec-bef7-4226-b17b-947b69dce1d1
+Ÿpython:S3776š"TRefactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.(¹ÌÓÆşÿÿÿÿ8óÑ›¢í2J$536ddcca-ea7c-4ccd-b8d5-9e8553d1f97e
+špython:S3776€"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(—£†¦8ØƒÜ•í2J$103e7043-1b77-46c4-b438-15418d474aa5

@@ -1,0 +1,6 @@
+
+python:S1192"XDefine a constant instead of duplicating this literal r"CREATE\s+TABLE\s+(\w+)" 3 times.(¦‡í£8¾®úì2J$5b1a56e0-b23f-4dfe-b48b-675772132353
+python:S3776"TRefactor this function to reduce its Cognitive Complexity from 91 to the 15 allowed.(ÒŸºüÿÿÿÿ8ƒ¾®úì2J$e794a575-3621-4566-a6a8-04d963359a81
+špython:S3776"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ó†º8ƒ¾®úì2J$4d10ff01-a050-4039-bf44-fa3960b2fbe4
+Ÿpython:S3776×"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(êˆÜşÿÿÿÿ8ƒ¾®úì2J$8d97b972-a6c5-44b7-8752-56db0a8cacf6
+špython:S3776’"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Á§8ƒ¾®úì2J$4909da05-68cf-4494-a05e-b641a0d64449
